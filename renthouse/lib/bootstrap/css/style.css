@@ -1,0 +1,32 @@
+#index{
+    padding-top: 70px;
+    background-image:url("../../../img/bg-index.jpg");
+    background-size: cover;
+}
+
+#tenantRe{
+
+}
+label.radio-inline{
+    color: #fa6ba6;
+    font-family: "微软雅黑";
+}
+.page-header{
+    font-size: 2000px;
+    color: #fa6ba6;
+    font-family: "微软雅黑";
+}
+
+.bs-example-form{
+    width: 30%;
+}
+
+/*col-sm-2 control-label.form-horizontal {*/
+    /*margin: ;*/
+/*}*/
+
+#tenantMainPage{
+    padding-top: 70px;
+    background-image:url("../../../img/bg-index.jpg");
+    background-size: cover;
+}

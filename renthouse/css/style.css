@@ -1,0 +1,47 @@
+#hostRe{
+    background-image:url("../img/bg-hostRegHtml.jpg");
+    background-size: cover;
+}
+
+#tenantRe{
+    background-image:url("../img/bg-tenantRegHtml.jpg");
+    background-size: cover;
+}
+
+.form-group {
+    text-align: center;
+    margin-top: 28px;
+
+}
+
+.hostRe-header{
+    margin-top: 8%;
+    text-align: center;
+}
+
+.hostMainForm{
+
+    width:500px;
+    height:320px;
+    background: #ffffff;
+    margin:0px auto;
+}
+
+.tenantMainForm{
+
+    width:500px;
+    height:420px;
+    background: #ffffff;
+    margin:0px auto;
+}
+
+
+
+/*.control-label{*/
+    /*height: 30%;*/
+    /*margin-right: 240px;*/
+/*}*/
+/*.btn-default{*/
+    /*margin-top: 8%;*/
+/*}*/
+
